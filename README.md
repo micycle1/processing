@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/micycle1/processing.svg)](https://jitpack.io/#micycle1/processing)
+[![](https://jitpack.io/v/micycle1/processing3.svg)](https://jitpack.io/#micycle1/processing3)
 
 Processing 3
 ==========
@@ -26,7 +26,7 @@ It is hosted as a *Maven* dependency via [JitPack](https://jitpack.io/#micycle1/
   ```
 <dependency>
 	  <groupId>com.github.micycle1</groupId>
-	  <artifactId>processing</artifactId>
+	  <artifactId>processing3</artifactId>
 	  <version>3.5.4</version>
 </dependency>
   ```
